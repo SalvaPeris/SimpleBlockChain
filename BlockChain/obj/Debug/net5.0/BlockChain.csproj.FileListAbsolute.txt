@@ -1,0 +1,16 @@
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\BlockChain.exe
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\BlockChain.deps.json
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\BlockChain.runtimeconfig.json
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\BlockChain.runtimeconfig.dev.json
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\BlockChain.dll
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\ref\BlockChain.dll
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\bin\Debug\net5.0\BlockChain.pdb
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.csproj.AssemblyReference.cache
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.AssemblyInfoInputs.cache
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.AssemblyInfo.cs
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.csproj.CoreCompileInputs.cache
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.dll
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\ref\BlockChain.dll
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.pdb
+C:\Users\saperis\Desktop\Block\BlockChain\BlockChain\obj\Debug\net5.0\BlockChain.genruntimeconfig.cache
